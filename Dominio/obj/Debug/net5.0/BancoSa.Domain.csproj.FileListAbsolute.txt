@@ -1,0 +1,12 @@
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\bin\Debug\net5.0\BancoSa.Domain.deps.json
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\bin\Debug\net5.0\BancoSa.Domain.dll
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\bin\Debug\net5.0\ref\BancoSa.Domain.dll
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\bin\Debug\net5.0\BancoSa.Domain.pdb
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\obj\Debug\net5.0\BancoSa.Domain.csproj.AssemblyReference.cache
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\obj\Debug\net5.0\BancoSa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\obj\Debug\net5.0\BancoSa.Domain.AssemblyInfoInputs.cache
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\obj\Debug\net5.0\BancoSa.Domain.AssemblyInfo.cs
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\obj\Debug\net5.0\BancoSa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\obj\Debug\net5.0\BancoSa.Domain.dll
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\obj\Debug\net5.0\ref\BancoSa.Domain.dll
+C:\Users\Qintess\Desktop\Desenvolvimento\Teste Safra\API\BancoSa\Dominio\obj\Debug\net5.0\BancoSa.Domain.pdb

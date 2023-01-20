@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\BancoSa\\BancoSa.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\BancoSa\\BancoSa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\BancoSa\\BancoSa.csproj",
+        "projectName": "BancoSa",
+        "projectPath": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\BancoSa\\BancoSa.csproj",
+        "packagesPath": "C:\\Users\\Qintess\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\BancoSa\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Qintess\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Dominio\\BancoSa.Domain.csproj": {
+                "projectPath": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Dominio\\BancoSa.Domain.csproj"
+              },
+              "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Factory\\BancoSa.Factory.csproj": {
+                "projectPath": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Factory\\BancoSa.Factory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Dominio\\BancoSa.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Dominio\\BancoSa.Domain.csproj",
+        "projectName": "BancoSa.Domain",
+        "projectPath": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Dominio\\BancoSa.Domain.csproj",
+        "packagesPath": "C:\\Users\\Qintess\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Qintess\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Factory\\BancoSa.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Factory\\BancoSa.Factory.csproj",
+        "projectName": "BancoSa.Factory",
+        "projectPath": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Factory\\BancoSa.Factory.csproj",
+        "packagesPath": "C:\\Users\\Qintess\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Qintess\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Dominio\\BancoSa.Domain.csproj": {
+                "projectPath": "C:\\Users\\Qintess\\Desktop\\Desenvolvimento\\Teste Safra\\API\\BancoSa\\Dominio\\BancoSa.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
